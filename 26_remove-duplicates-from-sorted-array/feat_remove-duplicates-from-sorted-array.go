@@ -1,6 +1,6 @@
-package _6_remove_duplicates_from_sorted_array
+package Remove_duplicates_from_sorted_array
 
-func removeDuplicates(nums []int) int {
+func RemoveDuplicates(nums []int) int {
 	if len(nums) == 0 {
 		return 0
 	}
