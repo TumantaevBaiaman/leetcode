@@ -1,4 +1,4 @@
-package Remove_duplicates_from_sorted_array
+package leetcode
 
 func RemoveDuplicates(nums []int) int {
 	if len(nums) == 0 {
